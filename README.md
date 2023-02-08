@@ -9,21 +9,21 @@ analysis of some of their data in order to derive insights and suggest strategie
 segmentation based on the provided criteria.
 
 ## Instacart Data Sets:
-#### Customers 
-####  Departments
-####  Orders
-####  Products 
+##### Customers 
+#####  Departments
+#####  Orders
+##### Products 
 
 ## Tools Used in the Project
 For this project following Python Libraries are used:
-● Pandas: for Data Analysis
-● Seaborn : for Data visualization
+##### Pandas: for Data Analysis
+##### Seaborn : for Data visualization
 
 ## Executing the code
 The code is available as jupyter notebooks, available under/ scripts/
 To launch the notebook, open the terminal and run the command
-● importing data : jupyter notebook importdata.ipynb
-● generate corssTab : jupyter notebook createCrossTabs.ipynb
+##### importing data : jupyter notebook importdata.ipynb
+##### generate corssTab : jupyter notebook createCrossTabs.ipynb
 
 ## Recources
 
