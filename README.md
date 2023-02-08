@@ -9,10 +9,10 @@ analysis of some of their data in order to derive insights and suggest strategie
 segmentation based on the provided criteria.
 
 ## Instacart Data Sets:
-● Customers 
-● Departments
-● Orders
-● Products 
+#### Customers 
+####  Departments
+####  Orders
+####  Products 
 
 ## Tools Used in the Project
 For this project following Python Libraries are used:
